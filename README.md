@@ -1,2 +1,3 @@
 # OOP-Project
 Final project for OOP laboratory.
+Task: Create a management system for a restaurant menu. The menu contains a list of products. Each product has its own recipe and list of ingredients. Each ingredient is limited to the stock of raw material available. Each time an order is set, the program checks if the products that are ordered have the necessary quantity of raw material available. Once the order is honored, the program must update the stock of material so that it decrements the amount used in preparing the order. For this projec, I have used several classes, each one displaying at least one dinamically allocated variable and the class relationships are of type has-a.
